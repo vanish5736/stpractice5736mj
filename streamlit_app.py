@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("🐰 MJ's page")
 st.write("**This is a page of MJ!** We are right now mid session.")
-st.write("Does it not matter if I enter? Another code just separated the paragraph automatically.")
+st.write("Separating the paragraphs automatically.")
 
 # 정보성 메시지 박스
 st.info("ℹ️ 정보 메시지입니다.")
